@@ -56,9 +56,10 @@ padding: 0 0 27px;
     padding:8px 2px;
 }
 
-.nav_menu li:hover{
+.nav_menu li:hover {
     background-color: rgb(235, 235, 235);
 }
+
 .nav_menu li:hover .drop_down{
     display: grid;
 }
@@ -334,6 +335,8 @@ padding: 0 0 27px;
 #umbrellaFerrule5{
     width: 35%;
 }
+
+/***Beyond The Class***/
 /***Resume***/
 .title{
     padding-top: 10px;
